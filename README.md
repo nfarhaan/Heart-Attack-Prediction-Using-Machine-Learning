@@ -7,11 +7,11 @@ This project focuses on predicting heart attack risks using two machine learning
 ## Models Used
 
 1. **Decision Tree Classifier**
-   - **Accuracy:** 98.94%
-   - **Precision:** 98.95%
-   - **Recall:** 98.94%
-   - **F1-Score:** 98.94%
-   - **Specificity:** 98.29%
+   - **Accuracy:** 92.33%
+   - **Precision:** 92.33%
+   - **Recall:** 92.33%
+   - **F1-Score:** 92.33%
+   - **Specificity:** 91.21%
 
 2. **Multilayer Perceptron (MLP)**
    - **Accuracy:** 92.33%
